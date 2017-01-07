@@ -1,3 +1,4 @@
-# Otomatik Mühendis [![Build Status](https://travis-ci.org/otomatikmuhendis/otomatikmuhendis.github.io.svg)](https://travis-ci.org/otomatikmuhendis/otomatikmuhendis.github.io)
+# Olcay Bayram
+## Senior Software Engineer
 
-[http://otomatikmuhendis.com](http://otomatikmuhendis.com) sitesinin içeriğini barındıran depo.
+The content of the [http://olcaybayram.com.tr/](http://olcaybayram.com.tr/) website.
